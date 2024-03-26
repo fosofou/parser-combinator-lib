@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="io.arrow.kt.core" type="repository">
+    <properties maven-id="io.arrow-kt:arrow-core:1.1.3-alpha.28" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/arrow-core-1.1.3-alpha.28.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/arrow-core-jvm-1.1.3-alpha.28.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/arrow-continuations-jvm-1.1.3-alpha.28.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/arrow-annotations-jvm-1.1.3-alpha.28.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/kotlin-stdlib-common-1.6.21.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/animal-sniffer-annotations-1.21.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/kotlin-stdlib-jdk8-1.6.21.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/kotlin-stdlib-1.6.21.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/annotations-13.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/kotlin-stdlib-jdk7-1.6.21.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
